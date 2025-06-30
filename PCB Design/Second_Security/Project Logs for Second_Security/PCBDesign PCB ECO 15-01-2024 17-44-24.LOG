@@ -1,4 +1,0 @@
-Added Component: Designator=P2(Term.Block 2pin)
-Added Pin To Net: NetName=GND Pin=P2-0
-Added Pin To Net: NetName=VCC Pin=P2-1
-Added Member To Class: ClassName=SchematicDesign Member=Component P2 SUPPLY
