@@ -1,0 +1,31 @@
+Added Component: Designator=1(Spacer)
+Added Component: Designator=2(Spacer)
+Added Component: Designator=3(Spacer)
+Added Component: Designator=4(Spacer)
+Added Component: Designator=D1(LED)
+Added Component: Designator=D2(LED)
+Added Component: Designator=J1(ESP32-CAM)
+Added Component: Designator=LS1(BUZZER)
+Added Component: Designator=P1(HDR1X3)
+Added Pin To Net: NetName=BUZZER Pin=J1-P$16
+Added Pin To Net: NetName=BUZZER Pin=LS1-1
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=J1-P$10
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED-G Pin=D1-1
+Added Pin To Net: NetName=LED-G Pin=J1-P$11
+Added Net: Name=LED-G
+Added Pin To Net: NetName=LED-R Pin=D2-1
+Added Pin To Net: NetName=LED-R Pin=J1-P$12
+Added Net: Name=LED-R
+Added Pin To Net: NetName=RELAY Pin=J1-P$15
+Added Pin To Net: NetName=RELAY Pin=P1-3
+Added Net: Name=RELAY
+Added Pin To Net: NetName=VCC Pin=J1-P$9
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Net: Name=VCC
+Added Class: Name=SchematicDesign

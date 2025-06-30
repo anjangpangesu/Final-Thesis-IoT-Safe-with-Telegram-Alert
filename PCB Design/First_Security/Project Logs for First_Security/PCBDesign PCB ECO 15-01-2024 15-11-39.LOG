@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=5V NewDesignator=P3
+Change Component Designator: OldDesignator=BUZZER NewDesignator=LS1
+Change Component Designator: OldDesignator=ESP32-DEVKITC V4 NewDesignator=U1
+Change Component Designator: OldDesignator=KEYPAD NewDesignator=P1
+Change Component Designator: OldDesignator=LCD 16X2 I2C NewDesignator=P2
+Change Component Designator: OldDesignator=RELAY NewDesignator=P4
